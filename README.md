@@ -1,4 +1,4 @@
-# 📈 Store Profit Prediction | Machine Learning & Retail Analytics
+# 📈 ProfitIQ Forecasting | Machine Learning & Retail Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-Web%20App-black?logo=flask) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Gradient%20Boosting-orange?logo=scikitlearn) ![Vercel](https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel)
 
