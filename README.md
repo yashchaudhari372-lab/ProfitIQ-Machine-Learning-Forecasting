@@ -12,7 +12,7 @@ Retail profitability depends on transaction characteristics such as sales value,
 
 The application uses a **Gradient Boosting Regressor** loaded from `Gradient_model.pkl` and a **Flask** backend. Its interface includes interactive visualizations powered by Chart.js and styling with Tailwind CSS.
 
-> **Important:** This application is a demonstration of predictive analytics. Predicted profit is an estimate, not a guaranteed financial outcome.
+> **Important:** This application is a demonstration of predictive analytics. Predicted profit is an estimate, not a guaranteed financial outcome..
 
 ## ✨ Key Features
 
